@@ -15,9 +15,9 @@ I'm currently learning:
 - [ ] Computer Networking
 - [ ] Intro to Deep Learning
 
-**I believe that computer science have unique charm,which can be described as:**
+*I believe that computer science have unique charm,which can be described as:*
 
-*While an ugly interface has to be memorized,a beautiful design can be understood.*
+***While an ugly interface has to be memorized,a beautiful design can be understood.***
 
 <!--
 **xiaolefrank/xiaolefrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
