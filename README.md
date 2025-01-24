@@ -4,7 +4,7 @@
 
 - I have basis of `python`,`C` and `markdown`.
 
-- I'm learning the basic knowledge of computer science through this [book](https://csdiy.wiki/).
+- I'm learning the basic knowledge of computer science via this [book](https://csdiy.wiki/).
 
 - I'm strive for self-improvement.
 
