@@ -16,6 +16,7 @@ I'm currently learning:
 - [ ] Intro to Deep Learning
 
 **I believe that computer science have unique charm,which can be described as:**
+
 *While an ugly interface has to be memorized,a beautiful design can be understood.*
 
 <!--
