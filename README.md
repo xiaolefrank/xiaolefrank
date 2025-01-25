@@ -10,11 +10,11 @@
 
 I'm currently learning:
 
-- [ ] [Scoop](https://github.com/ScoopInstaller/Scoop?tab=readme-ov-file)
+- [x] [Scoop](https://github.com/ScoopInstaller/Scoop?tab=readme-ov-file)
 - [ ] Vim
 - [ ] LaTex
 - [ ] Docker
-- [ ] Git and Github Flow
+- [ ] Git and Github Flow (command line)
 - [ ] Java
 - [ ] Computer Networking
 - [ ] Intro to Deep Learning
