@@ -10,6 +10,10 @@
 
 I'm currently learning:
 
+- [ ] [Scoop](https://github.com/ScoopInstaller/Scoop?tab=readme-ov-file)
+- [ ] Vim
+- [ ] LaTex
+- [ ] Docker
 - [ ] Git and Github Flow
 - [ ] Java
 - [ ] Computer Networking
