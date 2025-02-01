@@ -4,22 +4,22 @@
 
 - I have basis of `python`,`C` and `markdown`.
 
+- I'm practicing using `vim` & `git` to boost my developing efficiency.
+
 - I'm learning the basic knowledge of computer science via this [book](https://csdiy.wiki/).
 
-- I'm strive for self-improvement.
+- I'm striving for self-improvement.
 
 I'm currently learning:
 
-- [x] [Scoop](https://github.com/ScoopInstaller/Scoop?tab=readme-ov-file)
-- [ ] Vim
+- [ ] Basic Java
 - [ ] LaTex
 - [ ] Docker
 - [ ] Git and Github Flow (command line)
-- [ ] Java
 - [ ] Computer Networking
 - [ ] Intro to Deep Learning
 
-*I believe that computer science have unique charm,which can be described as:*
+*I believe that computer science have its unique charm,which can be described as:*
 
 ***While an ugly interface has to be memorized,a beautiful design can be understood.***
 
