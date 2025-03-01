@@ -2,7 +2,7 @@
 
 - I'm a college student major in automation and I have a strong interest in computer science.
 
-- I have basis of `python`,`C` and `markdown`.
+- I have basis of `python`,`C`,`Java` and `markdown`.
 
 - I'm practicing using `vim` & `git` to boost my developing efficiency.
 
