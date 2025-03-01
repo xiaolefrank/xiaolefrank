@@ -12,7 +12,7 @@
 
 I'm currently learning:
 
-- [ ] Basic Java
+- [x] Basic Java(MIT 6.092)
 - [ ] LaTex
 - [ ] Docker
 - [ ] Git and Github Flow (command line)
