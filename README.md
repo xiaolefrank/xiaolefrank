@@ -12,11 +12,11 @@
 
 I'm currently learning:
 
-- [x] Basic Java(MIT 6.092)
+- [ ] [Web development](https://weblab.mit.edu/schedule)
+- [ ] Computer Networking
 - [ ] LaTex
 - [ ] Docker
 - [ ] Git and Github Flow (command line)
-- [ ] Computer Networking
 - [ ] Intro to Deep Learning
 
 *I believe that computer science have its unique charm,which can be described as:*
