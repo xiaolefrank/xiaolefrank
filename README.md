@@ -2,6 +2,8 @@
 
 - I'm a college student major in automation and I have a strong interest in computer science.
 
+- I'm novice `Linux` user.
+
 - I have basis of `python`,`C`,`Java` and `markdown`.
 
 - I'm practicing using `vim` & `git` to boost my developing efficiency.
