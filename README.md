@@ -2,17 +2,13 @@
 
 - I'm a college student major in automation and I have a strong interest in computer science.
 
-- I'm novice `Linux` user.
-
-- I have basis of `python`,`C`,`Java` and `markdown`.
-
-- I'm practicing using `vim` & `git` to boost my developing efficiency.
+- I'm novice `Linux` user, and I have basis of `python`,`C`,`Java` and `markdown`.
 
 - I'm learning the basic knowledge of computer science via this [book](https://csdiy.wiki/).
 
 - I'm striving for self-improvement.
 
-- I'm currently implementing [`WCLL`](https://github.com/xiaolefrank/WCLL)
+- I'm currently implementing [`KGHO-WCLL`](https://github.com/xiaolefrank/WCLL).
 
 I'm currently learning:
 
@@ -22,7 +18,8 @@ I'm currently learning:
 - [ ] Docker
 - [ ] Git and Github Flow (command line)
 - [ ] Intro to Deep Learning
-- [ ] Vibe Coding
+- [x] Vibe Coding
+- [ ] Japanese
 
 *I believe that computer science have its unique charm,which can be described as:*
 
